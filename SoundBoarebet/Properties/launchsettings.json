@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "SoundBoarebet (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "SoundBoarebet (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
